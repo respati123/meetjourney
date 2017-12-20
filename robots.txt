@@ -1,0 +1,4 @@
+User-Agent: Googlebot
+
+
+sitemap:http://www.meetjourney.com/sitemap.xml
